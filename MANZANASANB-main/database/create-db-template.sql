@@ -69,7 +69,7 @@ INSERT INTO
         Id_M1
     )
 VALUES (
-        'BrayanBT',
+        'Palomino',
         'CC',
         '1234',
         'administrador',
@@ -104,7 +104,7 @@ VALUES (
         1
     ),
     (
-        'andres',
+        'Felipe',
         'TI',
         '1121',
         'administrador',
