@@ -131,12 +131,12 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`Id`, `NombreUsuario`, `TipoDocumento`, `Documento`, `Rol`, `Id_M1`) VALUES
-(1, 'BrayanBT', 'CC', '1234', 'administrador', 1),
+(1, 'Palomino', 'CC', '1234', 'administrador', 1),
 (2, 'julian', 'TI', '12345', 'usuario', 2),
 (3, 'Jazmin', 'TI', '7890', 'usuario', 1),
 (4, 'yurlei', 'CC', '1020', 'usuario', NULL),
 (5, 'andres', 'TI', '1120', 'usuario', 1),
-(6, 'andres', 'TI', '1121', 'administrador', 1),
+(6, 'Felipe', 'TI', '1121', 'administrador', 1),
 (7, 'richard', 'TI', '1122', 'usuario', 1),
 (8, 'Ana', 'CC', '5565', 'usuario', NULL),
 (9, 'sofia', 'TI', '123123', 'usuario', 1),
